@@ -44,7 +44,8 @@ git push origin main
 
 #### 1.1 Remove Malicious Files
 ```bash
-cd /home/runner/work/M-KH-A-TELE-NG-B-NG/M-KH-A-TELE-NG-B-NG
+# Navigate to repository root
+cd /path/to/M-KH-A-TELE-NG-B-NG
 git rm modules/x64/d3d/d3dcompiler_47.dll
 git commit -m "Remove DLL file causing Telegram account freezes"
 git push

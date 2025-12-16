@@ -176,8 +176,8 @@ Sections: 6
 ### File-based IoCs
 ```
 MD5: a7349236212b0e5cec2978f2cfa49a1a
-SHA1: [would need to calculate]
-SHA256: [would need to calculate]
+SHA1: 5abb08949162fd1985b89ffad40aaf5fc769017e
+SHA256: a05d04a270f68c8c6d6ea2d23bebf8cd1d5453b26b5442fa54965f90f1c62082
 File size: 4916840 bytes
 Location: modules/x64/d3d/d3dcompiler_47.dll
 ```
