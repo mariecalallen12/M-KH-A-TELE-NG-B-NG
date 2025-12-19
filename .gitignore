@@ -1,0 +1,105 @@
+# Executables and Libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Archives
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tar.bz2
+
+# Compiled Object files
+*.o
+*.obj
+*.class
+*.pyc
+*.pyo
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+
+# Node modules
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Build directories
+build/
+dist/
+out/
+target/
+bin/
+obj/
+
+# Package files
+*.egg
+*.egg-info/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# Security and credentials
+*.key
+*.pem
+*.cert
+*.crt
+*.p12
+*.pfx
+secrets.json
+credentials.json
+.env.local
+.env.*.local
+
+# Telegram specific (session files)
+*.session
+*.session-journal
+my_account.session*
